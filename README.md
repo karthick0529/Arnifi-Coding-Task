@@ -1,68 +1,68 @@
-🚀 ARNIFI CODING ASSESMENT
+## 🚀 ARNIFI CODING ASSESMENT
 
-✔️CRUD OPERATIONS FOR BLOG WEBSITE
+## ✔️ CRUD OPERATIONS FOR BLOG WEBSITE
 
 A MERN full-stack blogging application built with MongoDB, Express, React & Node.js 
 
-🌟 Features
+## 🌟 Features
 
-  User registration and login
+    User registration and login
+  
+    JWT Token authentication
+  
+    Home Page - where we can see the filter criteria and all the blogs available.
+  
+    Blogs Page - where we can perform CRUD operations (Update, Delete)
+  
+    Add Page - where we can create a New Blog by entering Title, Author, Image and Content to be displayed.
+  
+    Logout Page - To logout from the entered User.
 
-  JWT Token authentication
+## ✏️ Note : Only the Authenticated User can Perform CRUD (CREATE, UPDATE, DELETE) Blogs. Remaining Users can see the blogs present within the webiste.
 
-  Home Page - where we can see the filter criteria and all the blogs available.
+## 🧰 Tech Stack
 
-  Blogs Page - where we can perform CRUD operations (Update, Delete)
+## Frontend
 
-  Add Page - where we can create a New Blog by entering Title, Author, Image and Content to be displayed.
+    ⚛️ React.js - JavaScript library for building user interfaces
+    
+    🛣 react-router-dom - Routing
+    
+    📡 Axios - API calls
+    
+    🎨 UI Framework - Material UI
+    
+    🖼 React Icons - Icon library
 
-  Logout Page - To logout from the entered User.
+## Backend
 
-✏️ Note : Only the Authenticated User can Perform CRUD (CREATE, UPDATE, DELETE) Blogs. Remaining Users can see the blogs present within the webiste.
+    🟢 Node.js - JavaScript runtime
+    
+    🚂 Express.js - Server framework
+    
+    🍃 Mongoose - MongoDB object modeling
+    
+    🎣 express-async-handler - Async error handling
+    
+    🔐 jsonwebtoken - Authentication
+    
+    🔒 Bcryptjs - Data encryption
+    
+    🔑 Dotenv - Environment variables
+    
+    📤 Multer - File uploads
+    
+    ↔️ CORS - Cross-origin resource sharing
 
-🛠 Technologies Used
+## Database
 
-Frontend
-
-⚛️ React.js - JavaScript library for building user interfaces
-
-🛣 react-router-dom - Routing
-
-📡 Axios - API calls
-
-🎨 UI Framework - Material UI
-
-🖼 React Icons - Icon library
-
-Backend
-
-🟢 Node.js - JavaScript runtime
-
-🚂 Express.js - Server framework
-
-🍃 Mongoose - MongoDB object modeling
-
-🎣 express-async-handler - Async error handling
-
-🔐 jsonwebtoken - Authentication
-
-🔒 Bcryptjs - Data encryption
-
-🔑 Dotenv - Environment variables
-
-📤 Multer - File uploads
-
-↔️ CORS - Cross-origin resource sharing
-
-Database
-
-🍃 MongoDB - NoSQL database
+    🍃 MongoDB - NoSQL database
 
 
-🌐 Deployment Links
+ ##🌐 Deployment Links
 
-FrontEnd: 
+    FrontEnd: 
+    
+    Backend: 
 
-Backend: 
-
-💻 GitHub: https://github.com/Whiteak007
+## 💻 GitHub: 
