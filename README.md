@@ -63,4 +63,14 @@ Database
     
     Backend: 
 
-## 💻 GitHub: 
+## 💻 GitHub: https://github.com/karthick0529/Arnifi-Coding-Task
+
+## 😊 Example Login Credentials
+
+    Name: Testuser
+    Email: user@guvi.com
+    Password: Test@123
+
+    Name: User1
+    Email: user1@guvi.com
+    Password: Test@123
