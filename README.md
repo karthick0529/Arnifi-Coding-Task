@@ -42,8 +42,6 @@ Backend
     
     🍃 Mongoose - MongoDB object modeling
     
-    🎣 express-async-handler - Async error handling
-    
     🔐 jsonwebtoken - Authentication
     
     🔒 Bcryptjs - Data encryption
@@ -56,7 +54,7 @@ Backend
 
 Database
 
-    🍃 MongoDB - NoSQL database
+    🍃 MongoDB Atlas - NoSQL database
 
 
 ## 🌐 Deployment Links
