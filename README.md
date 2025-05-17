@@ -1,6 +1,6 @@
 ## 🚀 ARNIFI CODING ASSESMENT
 
-## ✔️ CRUD OPERATIONS FOR BLOG WEBSITE
+#✔️ CRUD OPERATIONS FOR BLOG WEBSITE
 
 A MERN full-stack blogging application built with MongoDB, Express, React & Node.js 
 
@@ -18,11 +18,11 @@ A MERN full-stack blogging application built with MongoDB, Express, React & Node
   
     Logout Page - To logout from the entered User.
 
-## ✏️ Note : Only the Authenticated User can Perform CRUD (CREATE, UPDATE, DELETE) Blogs. Remaining Users can see the blogs present within the webiste.
+#✏️ Note : Only the Authenticated User can Perform CRUD (CREATE, UPDATE, DELETE) Blogs. Remaining Users can see the blogs present within the webiste.
 
 ## 🧰 Tech Stack
 
-## Frontend
+#Frontend
 
     ⚛️ React.js - JavaScript library for building user interfaces
     
@@ -34,7 +34,7 @@ A MERN full-stack blogging application built with MongoDB, Express, React & Node
     
     🖼 React Icons - Icon library
 
-## Backend
+#Backend
 
     🟢 Node.js - JavaScript runtime
     
@@ -54,12 +54,12 @@ A MERN full-stack blogging application built with MongoDB, Express, React & Node
     
     ↔️ CORS - Cross-origin resource sharing
 
-## Database
+#Database
 
     🍃 MongoDB - NoSQL database
 
 
- ##🌐 Deployment Links
+ ## 🌐 Deployment Links
 
     FrontEnd: 
     
