@@ -10,15 +10,15 @@ A MERN full-stack blogging application built with MongoDB, Express, React & Node
   
     JWT Token authentication
   
-    Home Page - where we can see the filter criteria and all the blogs available.
+    Home Page - Displays all blogs along with filter options to filter by category or author name.
   
-    Blogs Page - where we can perform CRUD operations (Update, Delete)
+    Blogs Page - Allows CRUD operations ( Read, Update, Delete) on blogs.
   
-    Add Page - where we can create a New Blog by entering Title, Author, Image and Content to be displayed.
+    Add Page - Used to create a new blog by entering the Title, Author, Image URL, and Content.
   
-    Logout Page - To logout from the entered User.
+    Logout Page - Enables the user to logout from the application.
 
-✏️ Note : Only the Authenticated User can Perform CRUD (CREATE, UPDATE, DELETE) Blogs. Remaining Users can see the blogs present within the webiste.
+✏️ Note : Only authenticated users can perform CRUD operations (Create, Update, Delete) on blogs. All other users can only view the blogs available on the website.
 
 ## 🧰 Tech Stack
 
