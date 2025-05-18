@@ -10,7 +10,7 @@ A MERN full-stack blogging application built with MongoDB, Express, React & Node
   
     JWT Token authentication
   
-    Home Page - Displays all blogs along with filter options to filter by category or author name.
+    Home Page - Displays all blogs along with filter options to filter by category, author name.
   
     Blogs Page - Allows CRUD operations ( Read, Update, Delete) on blogs.
   
