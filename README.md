@@ -63,7 +63,9 @@ Database
     
     Backend: https://arnifi-coding-task.onrender.com
 
-## 💻 GitHub: https://github.com/karthick0529/Arnifi-Coding-Task
+## 💻 GitHub:
+
+    https://github.com/karthick0529/Arnifi-Coding-Task
 
 ## 😊 Example Login Credentials
 
